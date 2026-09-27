@@ -40,3 +40,5 @@ This is from feature/demo-1 branch.
 ## PR Practice new 
 This branch is for learning Pull Request workflow.
 
+## Changelog
+- 2026-09-27: 学习 Git 工作流
